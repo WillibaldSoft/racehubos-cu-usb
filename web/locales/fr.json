@@ -1,0 +1,9 @@
+{
+  "title": "Control Unit USB",
+  "hint": "Les câbles PC compatibles CU apparaissent automatiquement. Activer la connexion automatique dans les réglages des appareils pour connecter le câble sans le sélectionner.",
+  "empty": "Aucune Control Unit USB détectée. Vérifier la CU, le câble et les droits du port série.",
+  "connect": "Connecter",
+  "disconnect": "Déconnecter",
+  "unavailable": "La détection USB est indisponible.",
+  "failed": "Échec de connexion USB : {{error}}"
+}

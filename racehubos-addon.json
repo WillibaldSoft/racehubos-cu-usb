@@ -1,0 +1,16 @@
+{
+  "id": "cu-usb",
+  "name": {
+    "en": "USB Control Unit",
+    "de": "USB-Control-Unit",
+    "fr": "Control Unit USB"
+  },
+  "version": "0.1.0",
+  "description": {
+    "en": "Connect a Carrera CU by PC USB cable, with automatic discovery.",
+    "de": "Carrera-CU per PC-USB-Kabel verbinden und automatisch erkennen.",
+    "fr": "Connecter une CU Carrera par c\u00e2ble PC USB avec d\u00e9tection automatique."
+  },
+  "license": "AGPL-3.0-or-later",
+  "order": 200
+}

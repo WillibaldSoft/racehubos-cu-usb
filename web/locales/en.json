@@ -1,0 +1,9 @@
+{
+  "title": "USB Control Unit",
+  "hint": "Compatible CU PC cables appear automatically. Enable automatic connection in the device settings to connect without selecting a cable.",
+  "empty": "No USB Control Unit detected. Check the CU, cable and serial-port permissions.",
+  "connect": "Connect",
+  "disconnect": "Disconnect",
+  "unavailable": "USB discovery is unavailable.",
+  "failed": "USB connection failed: {{error}}"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "USB-Control-Unit",
+  "hint": "Kompatible CU-PC-Kabel erscheinen automatisch. Zum Verbinden ohne Kabelauswahl die automatische Verbindung in den Geräteeinstellungen aktivieren.",
+  "empty": "Keine USB-Control-Unit erkannt. CU, Kabel und Zugriffsrechte auf den seriellen Anschluss prüfen.",
+  "connect": "Verbinden",
+  "disconnect": "Trennen",
+  "unavailable": "USB-Erkennung ist nicht verfügbar.",
+  "failed": "USB-Verbindung fehlgeschlagen: {{error}}"
+}
